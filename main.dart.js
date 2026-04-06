@@ -82399,7 +82399,7 @@ return null},
 $S:0}
 A.pz.prototype={
 ai(){var s=t.N,r=t.z
-return new A.Uw(A.c([A.aj(["amount","Ksh 6,000","fee","120"],s,r),A.aj(["amount","Ksh 8,000","fee","180"],s,r),A.aj(["amount","Ksh 10,000","fee","200"],s,r),A.aj(["amount","Ksh 12,000","fee","230"],s,r),A.aj(["amount","Ksh 15,000","fee","250"],s,r)],t.H7))}}
+return new A.Uw(A.c([A.aj(["amount","Ksh 6,000","fee","150"],s,r),A.aj(["amount","Ksh 8,000","fee","180"],s,r),A.aj(["amount","Ksh 10,000","fee","200"],s,r),A.aj(["amount","Ksh 12,000","fee","230"],s,r),A.aj(["amount","Ksh 15,000","fee","250"],s,r)],t.H7))}}
 A.Uw.prototype={
 A6(a){return this.aoC(a)},
 aoC(a){var s=0,r=A.O(t.H),q=1,p=[],o=[],n=this,m,l,k,j,i,h,g
